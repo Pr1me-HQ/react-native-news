@@ -6,9 +6,10 @@
 <h3 align="center"><b>A News App created using React Native.</b></h3>
 <p align="center"><b>Do Star ⭐ this repo, if you like it.</b></p>
 <div align="center">
-  
-![WhatsApp Video 2021-09-10 at 14 06 14](https://user-images.githubusercontent.com/62840625/132826050-3510b704-d1f1-4e2a-af68-1cd53bac4416.gif)
 
+<h3 align="center"><b>Приложение новостей, созданное с помощью React Native.</b></h3>
+<p align="center"><b>Если вам понравилось, поставьте ⭐ этот репозиторий.</b></p>
+  
 </div>
 
 # App Features
@@ -21,16 +22,20 @@
 <li><strong>News of different countries 🏳️‍🌈</strong></li>
 </ul>
 
-# How to Contribute
+# Функционал приложения
 <ul>
-<li><a href="https://github.com/login?return_to=%2Ftarunsinghofficial%2FNewsXTimes-App">Fork</a> the the project</li>
-<li>Create your feature branch (git checkout -b my-new-feature)</li>
-<li>Make required changes and commit (git commit -am 'Add some feature')</li>
-<li>Push to the branch (git push origin my-new-feature)</li>
-<li>Create new Pull Request</li>
+<li><strong>Получение последних и популярных новостей 📰</strong></li>
+<li><strong>Поддержка встроенного браузера 🌐</strong></li>
+<li><strong>Возможность поделиться 🔗</strong></li>
+<li><strong>Темная тема 🌙</strong></li>
+<li><strong>Новости в разных категориях 📜</strong></li>
+<li><strong>Новости разных стран 🏳️‍🌈</strong></li>
 </ul>
 
-<h2><a id="user-content-technology-stack-used" class="anchor" aria-hidden="true" href="#technology-stack-used"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Technology Stack used:</h2>
+<h2><a id="user-content-technology-stack-used" class="anchor" aria-hidden="true" href="#technology-stack-used"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Technology Stack:</h2>
+
+
+<h2><a id="user-content-technology-stack-used" class="anchor" aria-hidden="true" href="#technology-stack-used"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Используемые технологии:</h2>
 
 <p><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
